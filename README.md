@@ -12,4 +12,6 @@ current state: beta
   right now it only is a tty with network abilty hell i dont even know if it boots on all system or even if the iso boots. 
   but im working on it.
   hevaily inspired by hannah montana linux and justin beiber linux
-  
+
+join the discord to report errors and other things:
+https://discord.gg/vgRBwZCMfd
